@@ -1,6 +1,6 @@
 # Thesis Project 2024
 
-This repository contains the materials and experiments for the thesis project of the Artificial Intelligence and Data Analytics course, 2023/2024.
+This repository contains the thesis and the materials and experiments for the thesis project of the Artificial Intelligence and Data Analytics course, 2023/2024.
 
 ## Repository Structure
 
